@@ -1,0 +1,23 @@
+P001,Arroz Súper Extra 1kg,Arroz blanco premium ideal para acompañar cualquier comida,1.35,120
+P002,Leche Entera Pasteurizada 1L,Leche fresca ideal para desayunos y recetas,1.10,85
+P003,Azúcar Morena 1kg,Azúcar natural sin refinar para endulzar bebidas y postres,1.25,75
+P004,Aceite de Girasol 900ml,Aceite vegetal ideal para freír y cocinar,2.80,60
+P005,Pan de Molde Integral 450g,Pan suave con alto contenido en fibra,1.95,40
+P006,Huevos AA (Docena),Huevos frescos de gallina categoría AA,2.50,90
+P007,Sal Refina 1kg,Sal yodada para uso diario en cocina,0.60,100
+P008,Detergente Líquido 1L,Detergente para ropa con aroma floral,2.75,65
+P009,Jabón de Tocador 125g,Jabón antibacterial con aloe vera,0.85,150
+P010,Shampoo Anticaspa 400ml,Shampoo con fórmula fortalecedora para cuero cabelludo,3.20,35
+P011,Papel Higiénico x4 rollos,Papel doble hoja ultra suave,2.40,50
+P012,Galletas de Avena 250g,Galletas saludables con trozos de pasas,1.50,45
+P013,Atún en Aceite 170g,Lomo de atún en conserva listo para servir,1.30,70
+P014,Mayonesa 400g,Mayonesa tradicional con sabor casero,2.10,55
+P015,Café Molido 250g,Café 100% arábica de tueste medio,3.80,38
+P016,Jugo de Naranja 1L,Jugo natural sin conservantes ni azúcar añadida,1.95,42
+P017,Agua Purificada 500ml,Agua embotellada libre de sodio,0.45,200
+P018,Manzanas Rojas 1kg,Manzanas frescas y crocantes seleccionadas,1.90,33
+P019,Pollo Entero Congelado 2.5kg,Pollo limpio y empacado al vacío,6.75,28
+P020,Toalla de Cocina x2 rollos,Toallas absorbentes para cocina multiuso,1.85,60
+P021,Risadas de Limon,Picaditas , 0.75,50
+P022,Coca cola 3 litros ,Refresco de soda , 3.00,45 
+
